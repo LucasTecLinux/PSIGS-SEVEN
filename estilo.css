@@ -1,0 +1,102 @@
+body {
+	background-color: #1f1f1f;
+	font-family: verdana;
+}
+
+table {
+	width:70%;
+	background-color:#ffb300;
+	border-radius: 3px;	
+}
+
+hr {
+	background-color: #ffb300;
+	height: 2px;
+	border-width: 0px;
+	width: 70%;
+	margin-top: -0.5em;
+	margin-bottom: -0.5em;
+}
+
+h1 {
+	color: #ffb300;
+}
+
+h2 {
+	margin-bottom: 0.2em;
+	color: #000000;
+}
+
+h3 {
+	color: #ffb300;
+	margin-top: -0.2em;
+	margin-bottom: -0.2em;
+}
+
+input[type='submit'] {
+	height: 25px;
+	background-color: #1f1f1f; 
+	font: 12px verdana;
+	text-align: center; 
+	font-weight: bolder;
+	color:#ffffff;
+	border: 0px;
+	border-radius: 3px;
+}
+
+input[type='reset'] {
+	height: 25px;
+	background-color: #1f1f1f; 
+	font: 12px verdana;
+	text-align: center; 
+	font-weight: bolder;
+	color:#ffffff;
+	border: 0px;
+	border-radius: 3px;
+}
+
+input[type='file']{ 
+	height: 100%;
+	width: 300px;
+	background-color: #1f1f1f; 
+	font: 12px verdana;
+	text-indent: 0px; 
+	font-weight: bolder;
+	color:#ffffff;
+	border: 0px;
+	border-radius: 3px;
+}
+
+input[type='text']{ 
+	height: 25px;
+	background-color: #1f1f1f; 
+	font: 12px verdana;
+	text-indent: 10px; 
+	font-weight: bolder;
+	color:#ffffff;
+	border: 0px;
+	border-radius: 3px;
+}
+
+select { 
+	height: 25px;
+	background-color: #1f1f1f; 
+	font: 12px verdana;
+	font-weight: bolder;
+	color:#ffffff;
+	border: 0px;
+	border-radius: 3px;
+}
+
+textarea {
+	resize: none;
+	background-color: #1f1f1f; 
+	font: 12px verdana;
+	font-weight: bolder;
+	color:#ffffff;
+	border: 0px;
+	border-radius: 3px;
+}
+fieldset {
+	width: 50%;
+}
